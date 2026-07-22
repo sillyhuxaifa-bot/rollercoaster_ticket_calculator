@@ -55,7 +55,8 @@ Photo added: $3
 
 Your total bill is: $15
 
-#What I Learned
+
+What I Learned
 
 This project helped me practice Python fundamentals, including user input, conditional logic, loops, and writing cleaner, more readable code.
 
