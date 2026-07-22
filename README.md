@@ -35,7 +35,7 @@ How to Run
 4. Run the program:
 
 python rollercoaster_ticket_calculator.py
-
+___
 Example
 
 Welcome to the RollerCoastahhh!
@@ -54,8 +54,7 @@ Would you like a ride photo? (y/n): y
 Photo added: $3
 
 Your total bill is: $15
-
-
+___
 What I Learned
 
 This project helped me practice Python fundamentals, including user input, conditional logic, loops, and writing cleaner, more readable code.
