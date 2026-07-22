@@ -38,15 +38,15 @@ python rollercoaster_ticket_calculator.py
 
 Example
 
-Welcome to the RollerCoastahhh!
+-Welcome to the RollerCoastahhh!
 
-Enter your height (cm): 170
-Great! You can ride the rollercoaster.
-Enter your age: 20
-Adult Ticket: $12
-Would you like a ride photo? (y/n): y
-Photo added: $3
-Your total bill is: $15
+-Enter your height (cm): 170
+-Great! You can ride the rollercoaster.
+-Enter your age: 20
+-Adult Ticket: $12
+-Would you like a ride photo? (y/n): y
+-Photo added: $3
+-Your total bill is: $15
 
 What I Learned
 
